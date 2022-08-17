@@ -15,7 +15,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
-
 import java.io.File;
 import java.security.SecureRandom;
 import javafx.stage.Stage;
